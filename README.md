@@ -1,6 +1,6 @@
-# Minimal Mod
+# BTA Mod (RatonMod)
 
-Babric example mod, without the examples.
+Babric mod, for test.
 
 ## Prerequisites
 - JDK for Java 17 ([Eclipse Temurin](https://adoptium.net/temurin/releases/) recommended)
