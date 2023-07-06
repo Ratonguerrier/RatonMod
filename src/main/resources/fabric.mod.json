@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
-  "id": "examplemod",
+  "id": "ratonmod",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This mod aims to help new BTA modders.",
+  "name": "RatonMod",
+  "description": "This mod is a test mod for the moment.",
   "authors": [
-    "Turnip Labs"
+    "Turnip Labs",
+    "RatonGuerrier"
   ],
   "contact": {
     "homepage": "",
@@ -18,11 +19,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-        "turniplabs.examplemod.ExampleMod"
+        "turniplabs.ratonmod.RatonMod"
     ]
   },
   "mixins": [
-      "examplemod.mixins.json"
+    "ratonmod.mixins.json"
   ],
 
   "depends": {
